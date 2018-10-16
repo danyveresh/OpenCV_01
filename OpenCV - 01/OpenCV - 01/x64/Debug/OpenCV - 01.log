@@ -1,0 +1,6 @@
+﻿  functii_prelucrare.cpp
+d:\facultate\anul iii\semestrul i\pim\opencv - 01\opencv - 01\functii_prelucrare.cpp(31): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+d:\facultate\anul iii\semestrul i\pim\opencv - 01\opencv - 01\functii_prelucrare.cpp(84): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+d:\facultate\anul iii\semestrul i\pim\opencv - 01\opencv - 01\functii_prelucrare.cpp(116): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+d:\facultate\anul iii\semestrul i\pim\opencv - 01\opencv - 01\functii_prelucrare.cpp(173): warning C4018: '<': signed/unsigned mismatch
+  OpenCV - 01.vcxproj -> D:\Facultate\Anul III\Semestrul I\PIM\OpenCV - 01\x64\Debug\OpenCV - 01.exe
