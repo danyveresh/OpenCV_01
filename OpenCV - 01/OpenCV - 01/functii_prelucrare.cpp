@@ -178,11 +178,16 @@ void My_ImageClass::negative()
 
 void My_ImageClass::to_gray()
 {
+	
 	unsigned long int *offset = (unsigned long int*)&gray_data_header[10];
-	cout << " - toGgray" << endl;
+	std::cout << " - toGgray" << std::endl;
 	for (int i = 54; i < (fileSize - 2); i += 3)
 	{
 		gray_data_header[*offset + (i - 54) / 3] = (data[i] + data[i + 1] + data[i + 2]) / 3;
+		Histo[gray_data_header[*offset + (i - 54) / 3]]++;
+
 	}
-	cout << " - toGray ended" << endl;
+	
+	system("pause");
+	std::cout << " - toGray ended" << std::endl;
 }
