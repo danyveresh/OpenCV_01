@@ -1,6 +1,9 @@
 ﻿  functii_prelucrare.cpp
-d:\facultate\anul iii\semestrul i\pim\opencv - 01\opencv - 01\functii_prelucrare.cpp(31): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
-d:\facultate\anul iii\semestrul i\pim\opencv - 01\opencv - 01\functii_prelucrare.cpp(84): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
-d:\facultate\anul iii\semestrul i\pim\opencv - 01\opencv - 01\functii_prelucrare.cpp(116): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
-d:\facultate\anul iii\semestrul i\pim\opencv - 01\opencv - 01\functii_prelucrare.cpp(173): warning C4018: '<': signed/unsigned mismatch
-  OpenCV - 01.vcxproj -> D:\Facultate\Anul III\Semestrul I\PIM\OpenCV - 01\x64\Debug\OpenCV - 01.exe
+c:\users\vere\documents\github\opencv_01\opencv - 01\opencv - 01\functii_prelucrare.cpp(31): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+c:\users\vere\documents\github\opencv_01\opencv - 01\opencv - 01\functii_prelucrare.cpp(84): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+c:\users\vere\documents\github\opencv_01\opencv - 01\opencv - 01\functii_prelucrare.cpp(116): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+c:\users\vere\documents\github\opencv_01\opencv - 01\opencv - 01\functii_prelucrare.cpp(173): warning C4018: '<': signed/unsigned mismatch
+  GraphUtils.cpp
+c:\users\vere\documents\github\opencv_01\opencv - 01\opencv - 01\graphutils.cpp(13): fatal error C1083: Cannot open include file: 'cv.h': No such file or directory
+  main.cpp
+  Generating Code...

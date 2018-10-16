@@ -1,7 +1,9 @@
 #pragma once
 #include <stdio.h>
 #include <iostream>
-
+#include "opencv2/opencv.hpp"
+#include "opencv2/plot.hpp"
+#include "GraphUtils.h"
 using namespace std;
 
 typedef unsigned char Byte;
@@ -16,6 +18,7 @@ public:
 	long fileSize;
 	Byte *data;
 	Byte *gray_data_header;
+	float Histo[256];
 
 public:
 	My_ImageClass();
